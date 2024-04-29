@@ -1,0 +1,22 @@
+.titulo{
+    height: 30vh;
+    width: 50vw;
+}
+
+.sub-titulo{
+    height: 15vh;
+    width: 25vw;
+}
+
+.bg-inicial{
+    background-image:url("../imgs/62fb1939b1f00d25be8657c29983b893.jpg");
+    background-size: 10%;
+}
+
+.bg-inf{
+    background-color: rgba(73, 57, 57, 0.4);
+}
+
+.cor{
+    color: inherit;
+}
