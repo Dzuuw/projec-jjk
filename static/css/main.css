@@ -1,3 +1,7 @@
+.body{
+    background-color: black;
+}
+
 .titulo{
     height: 30vh;
     width: 50vw;
@@ -9,14 +13,22 @@
 }
 
 .bg-inicial{
-    background-image:url("../imgs/62fb1939b1f00d25be8657c29983b893.jpg");
-    background-size: 10%;
+    background-image:url("https://i.makeagif.com/media/9-17-2023/n1jh0q.gif");
+    background-color: rgba(0, 0, 0, 0.9);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center calc(50% - 10px);
 }
 
 .bg-inf{
-    background-color: rgba(73, 57, 57, 0.4);
+    border: 1px black transparent;
+    border-radius: 5px;
+    background-color: rgba(150, 110, 110, 0.815);
+    color: rgb(0, 0, 0);
 }
 
 .cor{
     color: inherit;
 }
+
